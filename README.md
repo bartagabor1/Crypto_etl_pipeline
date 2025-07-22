@@ -14,6 +14,8 @@ crypto_etl_pipeline/
 
 ├── requirements.txt # Python package dependencies
 
+├── crypto_etl.ipynb # sample with visualization
+
 └── README.md # Project overview (this file)
 
 ---
